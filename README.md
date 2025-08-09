@@ -1,1 +1,1 @@
-#Its an ToDo app build with interactive UI by using React.js
+Its an ToDo app build with an interactive UI by using React.js.
